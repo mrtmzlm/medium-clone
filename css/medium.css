@@ -1,0 +1,25 @@
+body{
+    font-family: 'PT Serif', serif;
+}
+
+.bg-yellow{
+    background-color: #FFC017;
+}
+
+.border-bottom-dark{
+    border-bottom: solid 1px rgba(41, 41, 41, 1);
+}
+
+.img-pos{
+    position: static;
+    right: 0px;
+}
+
+
+.mt-top{
+    margin-top: 2 !important;
+}
+
+.a-side-buttons > li {
+    margin-bottom: 10px;
+}
